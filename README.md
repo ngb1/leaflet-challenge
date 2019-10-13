@@ -28,4 +28,8 @@ Included popups that provide additional information about the earthquake when a 
 
 ![dayEarthquake_noLegend.png](dayEarthquake_noLegend.png)
 
-Created a legend that will provide context for your map data.
+Created a legend that will provide context for your map data (In progress).
+
+## Authors
+
+* **Nicolas Gomez Bustamante** - *Initial work* - [PurpleBooth](https://github.com/nbg1)
